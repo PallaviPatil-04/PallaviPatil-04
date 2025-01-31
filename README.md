@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Pallavi Patil-04<br>👀 I’m coding enthusiast<br>🌱 I’m having good level of foundation on Web Development<br>🕸️ Backend and Frontend is my area of interests<br>📱 Currently learning NextJs<br>💞️ I’m looking to collaborate on Web development
+👋 Hi, I’m @PallaviPatil-04<br>👀 I’m coding enthusiast<br>🌱 I’m having good level of foundation on Web Development<br>🕸️ Backend and Frontend is my area of interests<br>💻Currently learning NextJs<br>💞️ I’m looking to collaborate on Web development
 
 
 # 💻 Tech Stack:
